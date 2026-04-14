@@ -4,7 +4,7 @@ import Login from "./pages/Login.jsx";
 import Account from "./pages/Account.jsx";
 import Dashboard from "./pages/Dashboard.jsx";
 import { Link, Routes, Route } from "react-router-dom";
-import UserContext from "./context/UserContext.jsx";
+import UserContext from "./context/UserContext.js";
 import { useContext } from "react";
 
 import "./App.css";
